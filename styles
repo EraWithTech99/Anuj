@@ -1,0 +1,27 @@
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+	background-color: #fca311;
+}
+
+h1 {
+    color: #fca311;
+}
+
+input[type="number"] {
+    width: 50px;
+}
+
+#guessSubmit {
+    background-color: #fca311;
+    color: white;
+    padding: 5px 10px;
+    border: none;
+    cursor: pointer;
+}
+
+.message {
+    font-weight: bold;
+    font-color: #fca311;
+}
+
